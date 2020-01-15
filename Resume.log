@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.5.15)  15 JAN 2020 15:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.5.15)  15 JAN 2020 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -748,7 +748,7 @@ ex
 LaTeX Warning: Unused global option(s):
     [A4].
 
-No file Resume.aux.
+(./Resume.aux)
 \openout1 = `Resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 302.
@@ -766,7 +766,7 @@ LaTeX Font Info:    ... okay on input line 302.
 LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 302.
 LaTeX Font Info:    Try loading font information for LY1+ptm on input line 302.
 
-(c:/texlive/2019/texmf-dist/tex/latex/ly1/ly1ptm.fd
+ (c:/texlive/2019/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
 LaTeX Font Info:    ... okay on input line 302.
@@ -1011,8 +1011,8 @@ Overfull \vbox (5.0pt too high) has occurred while \output is active []
 {c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Resume.aux) 
 ) 
 Here is how much of TeX's memory you used:
- 16141 strings out of 492616
- 340859 string characters out of 6133219
+ 16143 strings out of 492616
+ 340881 string characters out of 6133219
  422358 words of memory out of 5000000
  19698 multiletter control sequences out of 15000+600000
  139843 words of font info for 33 fonts, out of 8000000 for 9000
@@ -1023,7 +1023,7 @@ Here is how much of TeX's memory you used:
 /fonts/type1/impallari/raleway/Raleway-Bold.pfb><c:/texlive/2019/texmf-dist/fon
 ts/type1/impallari/raleway/Raleway-Regular.pfb><c:/texlive/2019/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Resume.pdf (1 page, 53423 bytes).
+Output written on Resume.pdf (1 page, 53513 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
